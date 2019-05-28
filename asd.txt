@@ -1,7 +1,12 @@
 dasdasdasddas
+<<<<<<< HEAD
 assd
-
+sdasd
 
 
 
 dadasdasdasdasda
+=======
+asdadasdasdasdasdasd
+asdasdasdas
+>>>>>>> asd3
