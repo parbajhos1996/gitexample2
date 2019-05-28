@@ -2,7 +2,11 @@ dasdasdasddas
 <<<<<<< HEAD
 assd
 sdasdsdadasdsdadadasdadasdasdas
+<<<<<<< HEAD
 dadasdasdasdasdfffffffffffffffffffffffffff
+=======
+
+>>>>>>> f73d4e123837ed74d3b92538d1e12b9bef919658
 
 
 dadasdasdasdasda
